@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="swatcho.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="800" height="800"/>
+	<SubTexture name="AAA0000" x="0" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0001" x="800" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0002" x="1600" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0003" x="2400" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0004" x="3200" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0005" x="0" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0006" x="800" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0007" x="1600" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0008" x="2400" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0009" x="3200" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0010" x="0" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0011" x="800" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0012" x="1600" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0013" x="2400" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0014" x="3200" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0015" x="0" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0016" x="800" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0017" x="1600" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0018" x="2400" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0019" x="3200" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0020" x="0" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0021" x="800" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0022" x="1600" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0023" x="2400" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0024" x="3200" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0025" x="0" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0026" x="800" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0027" x="1600" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0028" x="2400" y="800" width="800" height="800"/>
+	<SubTexture name="AAA0029" x="3200" y="800" width="800" height="800"/>
+</TextureAtlas>
